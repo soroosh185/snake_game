@@ -19,9 +19,9 @@ A modern implementation of the classic Snake game built with **Python** and **Py
 
 Add a screenshot here:
 
-```md
+md
 ![Game Screenshot](./screenshot.png)
-```
+
 
 ---
 
