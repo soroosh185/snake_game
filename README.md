@@ -29,7 +29,7 @@ Add a screenshot here:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/soroush185/snake-game.git
+git clone https://github.com/soroosh185/snake-game.git
 cd snake-game
 ```
 
